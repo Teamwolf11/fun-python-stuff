@@ -4,11 +4,13 @@
 
 import turtle
 
-wn = turtle.Screen()
-wn.title("Pong by Mike Cui")
-wn.bgcolor("black")
-wn.setup(width=800,height=600  )
-wn.tracer(0)
+window = turtle.Screen()
+window.title("Pong by @MikeCui")
+window.bgcolor("black")
+window.setup(width=800,height=600  )
+window.tracer(0)
+
+
 
 
 
@@ -17,11 +19,6 @@ paddleA=
 
 #hi
 #paddle b
-
-
-
-
-
 
 
 
